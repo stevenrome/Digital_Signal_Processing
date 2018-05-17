@@ -1,0 +1,14 @@
+*.sqlite
+*.zip
+*.csv
+*.txt
+*.png
+*.jpg
+*.xlsx
+*.xls
+*.pdf
+*.csv.gz
+*.wav
+.ipynb_checkpoints
+ztrans.py
+
